@@ -16,7 +16,7 @@
         style="display: flex; justify-content: center;
         width:700px; margin: 0 auto; padding:20px;
         border: 1px solid #d8dee4; border-radius:5px;">
-        <h5>🧑‍💻About Me</h5>
+        <h3>🧑‍💻About Me</h3>
         <div>
           <a href="https://paran-coding.tistory.com/">
           <img src="https://img.shields.io/badge/Tech Blog-FF6A33?style=Flat-square&logo=Tistory&logoColor=white"/>
@@ -25,7 +25,7 @@
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevKmee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
           </a>
         </div>
-        <h5>⭐Front-end</h5>
+        <h3>⭐Front-end</h3>
         <div>
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
@@ -36,13 +36,13 @@
           <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
         </div>
-        <h5>🌱Back-end</h5>
+        <h3>🌱Back-end</h3>
         <div>
            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Java-7952B3?style=flat-square&logo=CoffeeScript&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
         </div>
-        <h5>🙏Etc</h5>
+        <h3>🙏Etc</h3>
           <div>
             <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
             <img src="https://img.shields.io/badge/SVN-4E9BCD?style=flat&logo=subversion&logoColor=white">
