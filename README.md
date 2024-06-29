@@ -36,7 +36,7 @@
           <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
         </div>
-        <h3>🌱Back-end</h3>
+        <h3>⭐Back-end</h3>
         <div>
            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Java-7952B3?style=flat-square&logo=CoffeeScript&logoColor=white">
