@@ -10,7 +10,7 @@
         src="https://github-readme-stats.vercel.app/api?username=devKmee&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=,stars" />
       <img 
         style="width: 40%;" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKmee&layout=compact&langs_count=3"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKmee&layout=compact&langs_count=3&theme=react"/>
     </div>
   <!--Status end-->
   <!--Profile start-->
