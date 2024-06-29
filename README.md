@@ -16,7 +16,7 @@
         style="display: flex; justify-content: center;
         width:700px; margin: 0 auto; padding:20px;
         border: 1px solid #d8dee4; border-radius:5px;">
-      <div style="width: 60%; margin-right:10px;" >
+<!--       <div style="width: 60%; margin-right:10px;" > -->
         <h5>⭐FE</h5>
         <div>
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
@@ -46,8 +46,8 @@
             <img src="https://img.shields.io/badge/inteliJ-000000?style=flat&logo=intellijidea&logoColor=white">
             <img src="https://img.shields.io/badge/eclipse-7952B3?style=flat&logo=eclipseide&logoColor=white">
           </div>
-      </div>
-      <div style="width: 40%;">
+<!--       </div> -->
+<!--       <div style="width: 40%;"> -->
         <h5>🧑‍💻About Me</h5>
         <div>
           <a href="https://paran-coding.tistory.com/">
@@ -57,8 +57,8 @@
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevKmee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
           </a>
         </div>
-      </div>
+<!--       </div> -->
   </div>
   <!--Profile end-->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:2E9AFE&height=120&section=footer"/>
+<!--     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:2E9AFE&height=120&section=footer"/> -->
 </div>
