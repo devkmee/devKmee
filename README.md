@@ -1,5 +1,5 @@
 <div style="background:white;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:2E9AFE&height=120&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:2E9AFE&height=100&section=header"/>
   <!--Status start-->
     <div id="Status-div" 
         style="display: flex; justify-content: center; align-items: center; width:800px; margin: 0 auto 10px auto; ">
@@ -57,5 +57,5 @@
 <!--       </div> -->
   </div>
   <!--Profile end-->
-<!--     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:2E9AFE&height=120&section=footer"/> -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:2E9AFE&height=100&section=footer"/>
 </div>
