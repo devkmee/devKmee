@@ -7,7 +7,7 @@
         style="display: flex; justify-content: center; align-items: center; width:800px; margin: 0 auto 10px auto; ">
       <img  
         style="width: 51%; margin-right:10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=devKmee&show_icons=true&include_all_commits=true&count_private=true&hide=,stars" />
+        src="https://github-readme-stats.vercel.app/api?username=devKmee&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=,stars" />
       <img 
         style="width: 40%;" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKmee&layout=compact&langs_count=3"/>
