@@ -19,7 +19,7 @@
         width:700px; margin: 0 auto; padding:20px;
         border: 1px solid #d8dee4; border-radius:5px;">
       <div style="width: 60%; margin-right:10px;" >
-        <h5>🧑‍💻FE</h5>
+        <h5>⭐FE</h5>
         <div>
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
@@ -30,13 +30,13 @@
           <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
         </div>
-        <h5>🧑‍💻BE</h5>
+        <h5>🌱BE</h5>
         <div>
            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Java-7952B3?style=flat-square&logo=CoffeeScript&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
         </div>
-        <h5>🧑‍💻Etc</h5>
+        <h5>🙏Etc</h5>
           <div>
             <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
             <img src="https://img.shields.io/badge/SVN-4E9BCD?style=flat&logo=subversion&logoColor=white">
