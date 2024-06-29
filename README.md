@@ -1,7 +1,5 @@
 <div style="background:white;">
-  <p align="center" >
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:2E9AFE&height=120&section=header"/>
-  </p>
   <!--Status start-->
     <div id="Status-div" 
         style="display: flex; justify-content: center; align-items: center; width:800px; margin: 0 auto 10px auto; ">
@@ -62,7 +60,5 @@
       </div>
   </div>
   <!--Profile end-->
-  <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:2E9AFE&height=120&section=footer"/>
-  </p>
 </div>
