@@ -52,7 +52,6 @@
       <div style="width: 40%;">
         <h5>🧑‍💻About Me</h5>
         <div>
-            <img src="https://img.shields.io/badge/Gmail-30B980?style=Flat-square&logo=Gmail&logoColor=white"/>
           <a href="https://paran-coding.tistory.com/">
           <img src="https://img.shields.io/badge/Tech Blog-FF7328?style=Flat-square&logo=Tistory&logoColor=white"/>
           </a>
