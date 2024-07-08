@@ -33,7 +33,7 @@
         </div>
         <div>
           <img src="https://img.shields.io/badge/Ant Design-0085CA?style=flat-square&logo=Ant Design&logoColor=white">
-          <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
+          <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
         </div>
         <h3>⭐Back-end</h3>
